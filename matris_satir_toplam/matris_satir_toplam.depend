@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1766520810 source:c:\users\imran\desktop\codeblocks\matris_satir_toplam\main.c
+	<stdio.h>
+	<stdlib.h>
+

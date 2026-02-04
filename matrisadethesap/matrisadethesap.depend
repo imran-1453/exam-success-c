@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1765645328 source:c:\users\imran\desktop\codeblocks\matrisadethesap\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1765656142 source:c:\users\imran\desktop\codeblocks\matris_determinat_ters\main.c
+	<stdio.h>
+	<stdlib.h>
+
