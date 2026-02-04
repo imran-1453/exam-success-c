@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1770134362 source:c:\users\imran\desktop\final\kagýt yazmalar\takvim\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

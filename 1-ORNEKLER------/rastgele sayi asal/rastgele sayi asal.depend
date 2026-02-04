@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1769410362 source:c:\users\imran\desktop\final\kagýt yazmalar\rastgele sayi asal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
