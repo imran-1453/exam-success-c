@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1767765877 source:c:\users\imran\desktop\uygulama\basamak_sayisi\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1767765877 source:c:\users\imran\desktop\codeblocks\uygulama\basamak_sayisi\main.c
+	<stdio.h>
+	<stdlib.h>
+

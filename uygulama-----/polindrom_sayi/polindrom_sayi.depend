@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1767885326 source:c:\users\imran\desktop\uygulama\polindrom_sayi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

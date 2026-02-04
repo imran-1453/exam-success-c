@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1767826153 source:c:\users\imran\desktop\uygulama\asal_kontrol\main.c
+	<stdio.h>
+	<stdlib.h>
+
