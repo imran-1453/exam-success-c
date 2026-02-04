@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1768337476 source:c:\users\imran\desktop\final\recursive_asal_kontrol\main.c
+	<stdio.h>
+	<stdlib.h>
+

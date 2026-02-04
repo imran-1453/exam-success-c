@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1769373081 source:c:\users\imran\desktop\final\polindrom_recursive_kelime\main.c
+	<stdio.h>
+	<stdlib.h>
+
