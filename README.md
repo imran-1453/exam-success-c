@@ -16,4 +16,4 @@ ve gelişim sürecimi belgelemek.
 
 🇺🇸  
 To strengthen my computer engineering fundamentals through
-hands-on practice and to document my learning journey.
+hands-on practice and to document my learning journey..
