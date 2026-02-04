@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1766835163 source:c:\users\imran\desktop\codeblocks\asal_sayi_kontrol_fonk\main.c
+	<stdio.h>
+	<stdlib.h>
+

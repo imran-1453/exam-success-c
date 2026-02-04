@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1765350982 source:c:\users\imran\desktop\codeblocks\asaleksen\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1766516347 source:c:\users\imran\desktop\codeblocks\birim_matris\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1763641489 source:c:\users\imran\desktop\codeblocks\terstenyýldýz\main.c
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
+1763642992 source:c:\users\imran\desktop\codeblocks\enbuyukikisayi\main.c
+	<stdio.h>
+	<stdlib.h>
+

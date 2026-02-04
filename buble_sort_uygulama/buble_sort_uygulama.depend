@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1766993971 source:c:\users\imran\desktop\codeblocks\buble_sort_uygulama\main.c
+	<stdio.h>
+	<stdlib.h>
+
