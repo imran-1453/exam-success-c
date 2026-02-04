@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1765135108 source:c:\users\imran\desktop\codeblocks\standartsapma\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

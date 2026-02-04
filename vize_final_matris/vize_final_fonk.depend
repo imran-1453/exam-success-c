@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1765986042 source:c:\users\imran\desktop\codeblocks\vize_final_fonk\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1765986515 source:c:\users\imran\desktop\codeblocks\vize_final_matris\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1762935285 source:c:\users\imran\desktop\codeblocks\sqrtxus\main.c
+	<stdio.h>
+	<math.h>
+
