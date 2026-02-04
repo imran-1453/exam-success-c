@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="diziler"/>
+        <attribute name="authors" value="imran"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-10-24 01:04:57 &#214;&#214;"/>
+        <attribute name="created" value="aW1yYW47SU1SQU47MjAyNS0xMC0yMzsxMTo0NjowMiDDllM7MjMyMw=="/>
+        <attribute name="edited" value="aW1yYW47SU1SQU47MjAyNS0xMC0yNDswMTowNDo1NyDDlsOWOzE7MjU2Ng=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="min" type="Integer" array="False" size=""/>
+            <declare name="dizisay&#305;s&#305;, i, yazd&#305;r" type="Integer" array="False" size=""/>
+            <assign variable="dizisay&#305;s&#305;" expression="random(50)+1"/>
+            <assign variable="i" expression="0"/>
+            <declare name="say&#305;lar" type="Integer" array="True" size="dizisay&#305;s&#305;"/>
+            <while expression="i!=dizisay&#305;s&#305;">
+                <assign variable="say&#305;lar[i]" expression="random(500)+1"/>
+                <assign variable="i" expression="i+1"/>
+            </while>
+            <assign variable="min" expression="say&#305;lar[1]"/>
+            <for variable="yazd&#305;r" start="0" end="dizisay&#305;s&#305;-1" direction="inc" step="1">
+                <output expression="say&#305;lar[yazd&#305;r]" newline="True"/>
+                <if expression="say&#305;lar[yazd&#305;r]&lt;min">
+                    <then>
+                        <assign variable="min" expression="say&#305;lar[yazd&#305;r]"/>
+                    </then>
+                    <else/>
+                </if>
+            </for>
+            <output expression="&quot;dizideki en k&#252;&#231;&#252;k say&#305;: &quot; &amp; min" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

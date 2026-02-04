@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="alanhesap"/>
+        <attribute name="authors" value="imran"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-10-23 07:42:21 &#214;S"/>
+        <attribute name="created" value="aW1yYW47SU1SQU47MjAyNS0xMC0yMzswNzozODowNCDDllM7MjMzMQ=="/>
+        <attribute name="edited" value="aW1yYW47SU1SQU47MjAyNS0xMC0yMzswNzo0MjoyMSDDllM7MTsyNDMz"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="kenar1" type="Integer" array="False" size=""/>
+            <declare name="kenar2" type="Integer" array="False" size=""/>
+            <declare name="sonuc" type="Integer" array="False" size=""/>
+            <output expression="&quot;dikd&#246;rtgenin k&#305;sa kenar&#305;n&#305; girin:&quot;" newline="True"/>
+            <input variable="kenar1"/>
+            <output expression="&quot;dikd&#246;rtgenin uzun kenar&#305;n&#305; girin:&quot;" newline="True"/>
+            <input variable="kenar2"/>
+            <assign variable="sonuc" expression="kenar1*kenar2"/>
+            <output expression="&quot;Dikd&#246;rtgenin alan&#305;:&quot; &amp; sonuc" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

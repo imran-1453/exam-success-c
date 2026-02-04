@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="faktoriyel"/>
+        <attribute name="authors" value="imran"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-11-04 11:42:17 &#214;S"/>
+        <attribute name="created" value="aW1yYW47SU1SQU47MjAyNS0xMS0wNDswOTo1NDoxNSDDllM7MjMzMw=="/>
+        <attribute name="edited" value="aW1yYW47SU1SQU47MjAyNS0xMS0wNDsxMTo0MjoxNyDDllM7MTsyNDMz"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="say&#305;" type="Integer" array="False" size=""/>
+            <declare name="i" type="Integer" array="False" size=""/>
+            <declare name="sonuc" type="Integer" array="False" size=""/>
+            <assign variable="sonuc" expression="1"/>
+            <output expression="&quot;faktoriyel say&#305;s&#305;n&#305; girin&quot;" newline="True"/>
+            <input variable="say&#305;"/>
+            <for variable="i" start="1" end="say&#305;" direction="inc" step="1">
+                <assign variable="sonuc" expression="sonuc*i"/>
+            </for>
+            <output expression="sonuc" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

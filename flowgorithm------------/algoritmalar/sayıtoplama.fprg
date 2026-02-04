@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="say&#305;toplama"/>
+        <attribute name="authors" value="imran"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-11-02 06:40:50 &#214;S"/>
+        <attribute name="created" value="aW1yYW47SU1SQU47MjAyNS0xMS0wMjswNjozNzo1MiDDllM7MjMzMA=="/>
+        <attribute name="edited" value="aW1yYW47SU1SQU47MjAyNS0xMS0wMjswNjo0MDo1MCDDllM7MTsyNDMw"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="say&#305;1" type="Integer" array="False" size=""/>
+            <declare name="say&#305;2" type="Integer" array="False" size=""/>
+            <declare name="sonuc" type="Integer" array="False" size=""/>
+            <output expression="&quot;1. say&#305;y&#305; girin&quot;" newline="True"/>
+            <input variable="say&#305;1"/>
+            <output expression="&quot;2. say&#305;y&#305; girin&quot;" newline="True"/>
+            <input variable="say&#305;2"/>
+            <assign variable="sonuc" expression="say&#305;1 + say&#305;2"/>
+            <output expression="&quot;i&#351;leminizin sonucu: &quot; &amp; sonuc" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

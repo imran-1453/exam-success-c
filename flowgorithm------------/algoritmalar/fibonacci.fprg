@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="fibonacci"/>
+        <attribute name="authors" value="imran"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-10-23 11:33:18 &#214;S"/>
+        <attribute name="created" value="aW1yYW47SU1SQU47MjAyNS0xMC0yMzswOTo1Njo0MCDDllM7MjMzMw=="/>
+        <attribute name="edited" value="aW1yYW47SU1SQU47MjAyNS0xMC0yMzsxMTozMzoxOCDDllM7MTsyNDM0"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="terimsay&#305;" type="Integer" array="False" size=""/>
+            <declare name="a" type="Integer" array="False" size=""/>
+            <declare name="b" type="Integer" array="False" size=""/>
+            <declare name="kontrol" type="Integer" array="False" size=""/>
+            <assign variable="a" expression="0"/>
+            <assign variable="b" expression="1"/>
+            <declare name="sonuc" type="Integer" array="False" size=""/>
+            <assign variable="sonuc" expression="1"/>
+            <output expression="&quot;ka&#231; terimli istiyorsunuz?&quot;" newline="True"/>
+            <input variable="terimsay&#305;"/>
+            <for variable="kontrol" start="1" end="terimsay&#305;" direction="inc" step="1">
+                <output expression="sonuc" newline="True"/>
+                <assign variable="sonuc" expression="a+b"/>
+                <assign variable="a" expression="b"/>
+                <assign variable="b" expression="sonuc"/>
+            </for>
+        </body>
+    </function>
+</flowgorithm>
